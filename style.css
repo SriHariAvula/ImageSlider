@@ -23,6 +23,7 @@ img {
     font-size: 3rem;
     color: white;
     padding: 1rem;
+    cursor: pointer;
 }
 
 .prev {
